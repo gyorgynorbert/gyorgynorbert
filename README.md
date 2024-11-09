@@ -1,5 +1,5 @@
 ## Hello
-- Currently ~~studying~~ struggling at Eötvös Loránd University, Budapest
+Currently ~~studying~~ struggling at Eötvös Loránd University, Faculty of Informathics
 
 <!--
 **gyorgynorbert/gyorgynorbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
